@@ -1,5 +1,7 @@
 # Geek Room Plaksha
 
+![Main Logo](https://github.com/user-attachments/assets/a8a58144-6d78-4068-9359-29116f4d8c08)
+
 Geek Room Plaksha is a technical club focused on building a community of student developers interested in solving real-world problems.
 
 Our goal is to build an inclusive community of students who want to learn about tech and grow together.
